@@ -2,11 +2,6 @@
 
 Sizalizer is an innovative analysis framework designed to advance the development of embedded C/C++ applications alongside RISC-V instruction set extensions. 
 
-## Architecture
-
-(Sizalizer Architecture)[img/ArchitekturMatrix.drawio.pdf]
-
-
 ## Prerequisites
 
 It is tested on Ubuntu 22.04
@@ -99,6 +94,10 @@ cmake ..
 make
 cd ../..
 ```
+
+## Architecture
+
+[Sizalizer Architecture](img/ArchitekturMatrix.drawio.pdf)
 
 ## Usage
 
@@ -328,7 +327,7 @@ ARISE (Automating RISC-V Instruction Set Extension) automates the generation of 
 
 ## Architecture
 
-(ARISE Architecture)[img/ARISE_Architecture.drawio.pdf]
+[ARISE Architecture](img/ARISE_Architecture.drawio.pdf)
 
 ## Usage
 
