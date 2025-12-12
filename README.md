@@ -1,6 +1,6 @@
-# Sizalizer: A Multi-layer Analysis Framework for ISA Optimization
+# ROT: Risc-V Optimization Tools
 
-Sizalizer is an innovative analysis framework designed to advance the development of embedded C/C++ applications alongside RISC-V instruction set extensions. 
+
 
 ## Prerequisites
 
@@ -94,6 +94,11 @@ cmake ..
 make
 cd ../..
 ```
+
+# Sizalizer: A Multi-layer Analysis Framework for ISA Optimization
+
+Sizalizer is an innovative analysis framework designed to advance the development of embedded C/C++ applications alongside RISC-V instruction set extensions. 
+
 
 ## Architecture
 
