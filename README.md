@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
-It is tested on Ubuntu 22.04
+It is tested for (K)Ubuntu 22.04 and 24.04
 
 
 ### Tools
